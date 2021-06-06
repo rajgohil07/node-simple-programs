@@ -1,0 +1,1 @@
+this file is opened,read,closed with a single file 'open_edit_file.js'
